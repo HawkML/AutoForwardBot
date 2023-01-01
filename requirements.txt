@@ -1,3 +1,4 @@
 TgCrypto
-Pyrogram
+Pyrogram==2.0.93
 Dnspython
+aiohttp==3.8.3
